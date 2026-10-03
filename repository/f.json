@@ -698,7 +698,7 @@
 			"name": "FileIcons Theme",
 			"details": "https://github.com/braver/FileIcons",
 			"donate": "https://ko-fi.com/koenlageveen",
-			"labels": ["file", "icons"],
+			"labels": ["file", "icons", "file icon theme"],
 			"releases": [
 				{
 					"sublime_text": ">=4206",
